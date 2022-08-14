@@ -5,6 +5,7 @@ import MarkDownItCustomAnchor from './markdown-it-custom-anchor'
 export default defineConfig({
   title: '开发配置',
   description: '',
+  base: '/app-config-docs/',
   lang: 'zh-CN',
 
   head: [
